@@ -62,8 +62,11 @@ npm run dev
 
 ## 🌍 Live Demo
 
-Coming soon...  
-Host your frontend using **Vercel**/**Netlify** and backend via **Render**/**Glitch**.
+🖥️ Frontend: [Visit Live Site](https://e-commerce-website-gamma-green.vercel.app/))
+
+📦 Backend (JSON Server): [View Live API](https://e-commerce-data-cbe9.onrender.com/)
+
+> Explore the full shopping experience, including product browsing, category filtering, and cart features.
 
 ---
 
