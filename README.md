@@ -62,7 +62,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-🖥️ Frontend: [Visit Live Site](https://e-commerce-website-gamma-green.vercel.app/))
+🖥️ Frontend: [Visit Live Site](https://e-commerce-website-gamma-green.vercel.app/)
 
 📦 Backend (JSON Server): [View Live API](https://e-commerce-data-cbe9.onrender.com/)
 
